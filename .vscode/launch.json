@@ -24,7 +24,7 @@
                 }
             ],
             "preLaunchTask": "Make",
-            "miDebuggerPath": "/usr/bin/gdb"
+            "miDebuggerPath": "gdb"
         }
     ]
 }
