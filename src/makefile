@@ -2,7 +2,7 @@ BUILDDIR := ../intermediate
 DISTDIR := ../dist
 
 # output binary
-BIN := $(DISTDIR)/test.run
+BIN := $(DISTDIR)/compiled
 
 # source files
 SRCS := \
